@@ -1,0 +1,3 @@
+com\usermanagement\User.class
+com\usermanagement\UserManagementApplication.class
+com\usermanagement\UserRepository.class
